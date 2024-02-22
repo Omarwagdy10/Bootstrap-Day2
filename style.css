@@ -1,0 +1,76 @@
+
+.navbar-main{
+    z-index: 10;
+
+}
+
+/* .navbar{
+    border: solid red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+} */
+
+
+
+
+.carousel-item img{
+    height:500px;
+  object-fit: fill;
+}
+
+.container-fluid h1{
+    display: flex;
+    justify-content: center;
+    padding: 20px 0px;
+}
+
+.col-xl-3{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.col-xl-3 img{
+    width: 200px;
+    height: 180px;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.col-xl-3 h6{
+    display: flex;
+    justify-content: center;
+    padding: 7px 0px ;
+    font-size: 20px ;
+    font-weight: 700;
+    
+}
+
+.vistUs{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px 0px;
+}
+
+.vistus-img img{
+    width: 100%;
+}
+
+.vistus-data{
+    text-align: center;
+}
+
+.contactUS{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.text-uppercase > p > a{
+    text-decoration: none;
+}
